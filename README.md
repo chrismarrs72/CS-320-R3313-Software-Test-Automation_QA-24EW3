@@ -1,4 +1,5 @@
-# CS-320-R3313-Software-Test-Automation_QA-24EW3
+#Module 8 Reflection
+### CS-320-R3313-Software-Test-Automation_QA-24EW3
 **Guaranteeing Functionality and Security**
 
 Ensuring software programs or codes are both functional and secure is of utmost importance when developing any type of code or software. This can be accomplished through rigorous testing that includes functional tests to validate that they meet their intended requirements as well as security tests to detect vulnerabilities. Implementing continuous integration and continuous deployment (CI/CD) pipelines that include automated tests can also help detect any potential issues early in development processes; additionally, adhering to secure coding practices as well as regularly patching dependencies against known vulnerabilities are vital steps in maintaining security.
